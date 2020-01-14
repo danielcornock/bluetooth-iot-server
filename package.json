@@ -1,0 +1,19 @@
+{
+  "name": "iot-project",
+  "version": "1.0.0",
+  "description": "iot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NottsJS",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-5",
+    "axios": "^0.19.1",
+    "colors": "^1.4.0",
+    "noble": "^1.9.1",
+    "node-beacon-scanner": "^0.2.2",
+    "nodemon": "^2.0.2"
+  }
+}
